@@ -1,0 +1,1 @@
+export const TitleFont = 'Mermaid Swash Caps'
